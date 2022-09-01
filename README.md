@@ -14,4 +14,4 @@ Much better than the C and C++ programming language. Perfect for Asians.
 - You should own an AsianLang compiler before you're 9 years old.
 ## Results
 - You'll either receive a discouraging word like `failure`, `stupid` or a interger value that shows how much your cousin or neighbor's code is better than yours.
-- You can never find the better solution because we won't let you know how many RAM your program used.
+- You can never find the better solution because we won't let you know how much RAM your program used.
